@@ -33,7 +33,7 @@ models = {
         ],
     },
     'polygon': {
-        'provider': 'https://matic-mainnet.chainstacklabs.com',
+        'provider': 'http://localhost:8545',
         "gasPrice": 100,        
         'exchangOracleAddr': '0x74Ef0781dd8bD7849c59B0f5e7888aa1932708AF',
         'executorAddr': '0x61255D9387a325BEA3bF3B994d32EE38B5947830',
